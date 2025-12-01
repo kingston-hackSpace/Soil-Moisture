@@ -13,9 +13,11 @@ It works as a variable resistor: the resistance changes depending on soil moistu
 - ARDUINO UNO
 - Sparkfun Moisture Sensor
 
+----
 ### CODE AND INSTRUCTIONS
 Sparkfun HookUp Guide [here](https://learn.sparkfun.com/tutorials/soil-moisture-sensor-hookup-guide)
 
+----
 ### FURTHER LEARNING
 
 [Smart Plant Care! Build a Qwiic Soil Moisture Sensor System](https://learn.sparkfun.com/tutorials/smart-plant-care-build-a-qwiic-soil-moisture-sensor-system/all)
